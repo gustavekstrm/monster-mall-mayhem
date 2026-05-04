@@ -1,0 +1,16 @@
+{
+  "name": "monster-mall-mayhem",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest",
+    "sim": "ts-node src/sim/simulation.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "vitest": "^3.0.0"
+  }
+}
