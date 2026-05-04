@@ -1,6 +1,7 @@
 {
   "name": "monster-mall-mayhem",
   "version": "1.0.0",
+<<<<<<< HEAD
   "private": true,
   "scripts": {
     "test": "vitest",
@@ -12,5 +13,28 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.7.2",
     "vitest": "^3.0.0"
+=======
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavekstrm/monster-mall-mayhem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavekstrm/monster-mall-mayhem/issues"
+  },
+  "homepage": "https://github.com/gustavekstrm/monster-mall-mayhem#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.5"
+>>>>>>> d4ad0a06bc095fa4df346b7a25dca8edb026e2cd
   }
 }
